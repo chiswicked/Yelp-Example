@@ -1,6 +1,6 @@
 # Yelp
 
-[![CI Status](http://img.shields.io/travis/chiswicked/Yelp-Example.svg?style=flat)](https://travis-ci.org/chiswicked/Yelp)
+[![CI Status](http://img.shields.io/travis/chiswicked/Yelp-Example.svg?style=flat)](https://travis-ci.org/chiswicked/Yelp-Example)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/chiswicked/Yelp-Example/blob/master/LICENSE)
 
 ## Description
