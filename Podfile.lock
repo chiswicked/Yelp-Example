@@ -1,0 +1,10 @@
+PODS:
+  - Yelp (0.0.1)
+
+DEPENDENCIES:
+  - Yelp
+
+SPEC CHECKSUMS:
+  Yelp: bbd7ebb6b093b04a4a9b2f584221a1d91a041761
+
+COCOAPODS: 0.39.0

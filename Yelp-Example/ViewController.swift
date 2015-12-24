@@ -7,19 +7,17 @@
 //
 
 import UIKit
+import Yelp
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        print("Consumer Key: \(Yelp.consumerKey)")
+        print("Consumer Secret: \(Yelp.consumerSecret)")
+        print("Token: \(Yelp.token)")
+        print("Token Secret: \(Yelp.tokenSecret)")
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-
 }
 
